@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://cosaquahzu.designmuse.com/sitemap.xml
